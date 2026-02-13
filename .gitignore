@@ -1,0 +1,38 @@
+\.venv
+.env
+__pycache__/
+*.pyc
+*.pyo  
+*.pyd
+*.db
+*.sqlite3
+*.log
+.DS_Store
+.idea/
+.vscode/    
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/       
+
+# Ignore distribution/build files
+dist/
+build/
+*.egg-info/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+.coverage.*
+# Ignore pytest cache   
+.pytest_cache/
+# Ignore mypy cache
+.mypy_cache/
+# Ignore Sphinx documentation build
+docs/_build/
+
+
+
+
