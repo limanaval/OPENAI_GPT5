@@ -29,7 +29,7 @@ htmlcov/
 # Ignore pytest cache   
 .pytest_cache/
 # Ignore mypy cache
-.mypy_cache/
+.mypy_cache/dir
 # Ignore Sphinx documentation build
 docs/_build/
 
